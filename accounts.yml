@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related doggo APIs "
+  message: "Welcome to EazyBank accounts related catto APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
